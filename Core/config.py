@@ -542,6 +542,28 @@ class Config:
         else:
             Conf = True
         if Conf == True:
+            print(Font.Color.WHITE +"\nComing S00N" + Font.Color.WHITE + "-->")
+            while True:
+                # Config.Banner(Mode)
+                # print(Font.Color.BLUE + "\n[I]" + Font.Color.WHITE + "INFO:" + "[{}]\n".format(Font.Color.GREEN + Language.Translation.Translate_Language(filename,"Configuration","Main","Explanation") + Font.Color.WHITE) )
+                # option = Language.Translation.Translate_Language(
+                #     filename, "Configuration", "Main", "Options")
+                # options = str(option)
+                # print(Font.Color.GREEN + Language.Translation.Translate_Language(
+                #     filename, "Configuration", "Main", "Text"))
+                options = "Enter 1 to go Main menu"
+                print(Font.Color.WHITE + options)
+                sce = int(input(Font.Color.GREEN +
+                                "\n[#MP#]" + Font.Color.WHITE + "-->"))
+                
+                if sce == 1:
+                    inp = input(Language.Translation.Translate_Language(
+                        filename, "Configuration", "Main", "Exit"))
+                    holmes.Main.Menu(Mode)
+                else:
+                    Config.main(Mode)
+            """
+        
             while True:
                 Config.Banner(Mode)
                 print(Font.Color.BLUE + "\n[I]" + Font.Color.WHITE + "INFO:" + "[{}]\n".format(Font.Color.GREEN + Language.Translation.Translate_Language(filename,"Configuration","Main","Explanation") + Font.Color.WHITE) )
@@ -589,6 +611,7 @@ class Config:
                     holmes.Main.Menu(Mode)
                 else:
                     Config.main(Mode)
+                """
         else:
             inp = input(Font.Color.RED + "\n[!]" + Font.Color.WHITE + Language.Translation.Translate_Language(
                 filename, "Configuration", "Main", "NoRoot"))

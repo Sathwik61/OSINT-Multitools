@@ -1,0 +1,172 @@
+SCANNING EXECUTED ON:
+Date: 18/12/2024 23:18:20
+IP: 53.87.253.53
+NATION: Germany
+NATION-CODE: DE
+REGION-CODE: BW
+REGION-NAME: Baden-Wurttemberg
+CITY: Stuttgart
+TIMEZONE: Europe/Berlin
+ISP: Mercedes-Benz Group AG
+ORG: Daimler AG
+AS: AS31399 Mercedes-Benz Group AG
+LAT: 48.7863
+LONG: 9.23807
+ZIP/POSTAL-CODE: 70327
+
+WEBSITE DATA:
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2024, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       53.0.0.0 - 53.255.255.255
+CIDR:           53.0.0.0/8
+NetName:        RIPE-ERX-53
+NetHandle:      NET-53-0-0-0-1
+Parent:          ()
+NetType:        Early Registrations, Maintained by RIPE NCC
+OriginAS:       
+Organization:   RIPE Network Coordination Centre (RIPE)
+RegDate:        1992-03-17
+Updated:        2014-10-14
+Comment:        These addresses have been further assigned to users in the RIPE NCC region. Contact information can be found in the RIPE database at http://www.ripe.net/whois
+Ref:            https://rdap.arin.net/registry/ip/53.0.0.0
+
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+ResourceLink:  whois.ripe.net
+
+
+OrgName:        RIPE Network Coordination Centre
+OrgId:          RIPE
+Address:        P.O. Box 10096
+City:           Amsterdam
+StateProv:      
+PostalCode:     1001EB
+Country:        NL
+RegDate:        
+Updated:        2013-07-29
+Ref:            https://rdap.arin.net/registry/entity/RIPE
+
+ReferralServer:  whois://whois.ripe.net
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+
+OrgAbuseHandle: ABUSE3850-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +31205354444 
+OrgAbuseEmail:  abuse@ripe.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE3850-ARIN
+
+OrgTechHandle: RNO29-ARIN
+OrgTechName:   RIPE NCC Operations
+OrgTechPhone:  +31 20 535 4444 
+OrgTechEmail:  hostmaster@ripe.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/RNO29-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2024, American Registry for Internet Numbers, Ltd.
+#
+
+
+
+Found a referral to whois.ripe.net.
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '53.0.0.0 - 53.255.255.255'
+
+% Abuse contact for '53.0.0.0 - 53.255.255.255' is 'ipadmin@daimler.com'
+
+inetnum:        53.0.0.0 - 53.255.255.255
+netname:        MERCEDES-BENZ-NET1
+org:            ORG-DA474-RIPE
+descr:          Mercedes-Benz Group AG
+country:        DE
+admin-c:        EH4384-RIPE
+tech-c:         EH4384-RIPE
+status:         LEGACY
+mnt-by:         RIPE-NCC-LEGACY-MNT
+mnt-by:         DAIMLER-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2022-04-12T08:04:16Z
+source:         RIPE
+
+organisation:   ORG-DA474-RIPE
+org-name:       Mercedes-Benz Group AG
+country:        DE
+org-type:       LIR
+address:        ITT/FN HPC L525
+address:        70546
+address:        Stuttgart
+address:        GERMANY
+phone:          +497111760844
+fax-no:         +497111779060844
+abuse-c:        AR13603-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        DAIMLER-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         DAIMLER-MNT
+admin-c:        EH4384-RIPE
+admin-c:        EH4384-RIPE
+created:        2012-12-11T14:21:36Z
+last-modified:  2024-01-16T14:54:48Z
+source:         RIPE # Filtered
+
+person:         Edda Hoppe
+address:        Mercedes-Benz Group AG
+address:        HPC L525
+address:        D-70546 Stuttgart
+address:        Germany
+phone:          +49 711 17 56394
+fax-no:         +49 711 17 79087921
+nic-hdl:        EH4384-RIPE
+created:        2022-01-13T13:28:17Z
+last-modified:  2023-10-11T06:46:45Z
+source:         RIPE # Filtered
+mnt-by:         DAIMLER-MNT
+
+% Information related to '53.0.0.0/8AS31399'
+
+route:          53.0.0.0/8
+descr:          MERCEDES-BENZ-NET1
+origin:         AS31399
+mnt-by:         DAIMLER-MNT
+created:        2006-03-14T10:05:37Z
+last-modified:  2022-04-12T08:05:43Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.114 (ABERDEEN)
+
+
+
+
+REPUTATION RATING: 98.81
+TEST-NAME: SSL Certificate configuration
+TEST-CODE: 89
+TEST-NAME: SSL Certificate configuration
+WARNING LISTS FOR TEST: SSL Certificate configuration
+DESCRIPTION: No SSL certificates found
+CODE: 6023
+
+SCANNING EXECUTED WITH Team MP

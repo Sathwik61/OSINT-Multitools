@@ -382,15 +382,15 @@ class Web:
 
     @staticmethod
     def whois_lookup(username, report, Mode):
-        print(Font.Color.GREEN + "\n[+]" + Font.Color.WHITE +
-              Language.Translation.Translate_Language(filename, "Website", "Default", "Whois").format(username))
+        # print(Font.Color.GREEN + "\n[+]" + Font.Color.WHITE +
+        #       Language.Translation.Translate_Language(filename, "Website", "Default", "Whois").format(username))
         sleep(2)
-        Key = Api.Check.WhoIs()
-        Key
+        # Key = Api.Check.WhoIs()
+        Key="at_KciacAgLj56pzwsJbVH7k35sZkFr6"
         if Key == "None":
             if (os.name != "nt"):
-                print(Font.Color.RED + "\n[!]" + Font.Color.WHITE +
-                      Language.Translation.Translate_Language(filename, "Website", "Parameters", "KeyNoFound"))
+                # print(Font.Color.RED + "\n[!]" + Font.Color.WHITE +
+                #       Language.Translation.Translate_Language(filename, "Website", "Parameters", "KeyNoFound"))
                 command = ("whois " + username)
                 proces = os.popen(command)
                 results = str(proces.read())
@@ -413,9 +413,11 @@ class Web:
                 email2 = None
         else:
             try:
-                print(Font.Color.GREEN + "[+]" +
-                      Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Website", "Parameters", "KeyFound"))
-                Key2 = str(Key)
+                # print(Font.Color.GREEN + "[+]" +
+                #       Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Website", "Parameters", "KeyFound"))
+                # Key2 = str(Key)
+                Key2 = "at_KciacAgLj56pzwsJbVH7k35sZkFr6"
+                # https://www.whoisxmlapi.com/whoisserver/WhoisService?apiKey=at_KciacAgLj56pzwsJbVH7k35sZkFr6&domainName=google.com
                 source = "https://www.whoisxmlapi.com/whoisserver/WhoisService?apiKey={}&domainName={}&outputFormat=JSON".format(
                     Key2, username)
                 access = urllib.request.urlopen(source)
@@ -801,12 +803,12 @@ class Web:
         f.close()
         print(Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Default", "Report", "None") +
               report)
-        Notification.Notifier.Start(Mode)
-        Creds.Sender.mail(report, username)
+        # Notification.Notifier.Start(Mode)
+        # Creds.Sender.mail(report, username)
         choice = int(input(
             Font.Color.BLUE + "\n[?]" + Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Transfer", "Question", "None") + Font.Color.GREEN + "[#MP#]" + Font.Color.WHITE + "-->"))
         if choice == 1:
             FileTransfer.Transfer.File(report, username, ".txt")
-        Encoding.Encoder.Encode(report)
-        inp = input(Language.Translation.Translate_Language(
-            filename, "Default", "Continue", "None"))
+        # Encoding.Encoder.Encode(report)
+        # inp = input(Language.Translation.Translate_Language(
+            # filename, "Default", "Continue", "None"))
