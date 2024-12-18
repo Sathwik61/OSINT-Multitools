@@ -30,7 +30,7 @@ License: GNU General Public License v3.0-->
             ?>
         </head>
         <body onload="Count()">
-            <p id = "Main">MR.HOLMES FILE-TRANSFER</p>
+            <p id = "Main">Team MP FILE-TRANSFER</p>
             <center>
                 <div class = "Content">
                     <img src = "Images/Download.png">

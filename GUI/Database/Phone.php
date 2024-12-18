@@ -38,7 +38,7 @@ License: GNU General Public License v3.0-->
         Get_Language($Modality);
     ?>
         <div class = "Top-bar">
-            <p>MR.HOLMES</p>
+            <p>MP</p>
             <div class = "Hidden-bar">
                 <button id = "Menu" onclick="Active_Mobile()">MENU</button>
                 <div class= "Options" id ="Options1">

@@ -54,7 +54,7 @@ class Main:
         Date1 = str(dt_string)
         Country = DateFormat.Get.Continent()
         Lang = Language.Translation.Get_Language2()
-        u = "|\t\t\t   \t\t\t\t    |"
+        u = "|\t\t\t   \t\t\t\t\t    |"
         print(Font.Color.WHITE +
               "---------------------------------------------------------------------")
         print(Font.Color.WHITE + u)

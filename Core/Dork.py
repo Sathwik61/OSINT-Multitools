@@ -113,6 +113,7 @@ class List:
             Parameters = []
             Parameters2 = []
             number = int(input(Font.Color.BLUE + "\n[?]" + Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Dorks", "ParamN", "None") + Font.Color.GREEN + "\n\n[#MP#]" + Font.Color.WHITE + "-->"))
+            print(number)
             for i in range(number):
                 type = int(input(Font.Color.BLUE + "\n[?]" + Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Dorks", "Choice", "None") + Font.Color.GREEN + "\n\n[#MP#]" + Font.Color.WHITE + "-->"))
                 if type == 1:
@@ -184,8 +185,8 @@ class List:
         f.write(Language.Translation.Translate_Language(
                 filename, "Report", "Default", "By"))
         f.close()
-        Notification.Notifier.Start(Mode)
-        Creds.Sender.mail(report, username)
+        # Notification.Notifier.Start(Mode)
+        # Creds.Sender.mail(report, username)
         choice = int(input(
                 Font.Color.BLUE + "\n[?]" + Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Transfer", "Question", "None") + Font.Color.GREEN + "[#MP#]" + Font.Color.WHITE + "-->"))
         if choice == 1:

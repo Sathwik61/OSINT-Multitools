@@ -49,14 +49,14 @@ class Ports:
         f.close()
         print(Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Default", "Report", "None") +
             report)
-        Notification.Notifier.Start(Mode)
+        # Notification.Notifier.Start(Mode)
         print("Report ="+report) #GUI/Reports/Ports/50.87.253.53.txt
         print("Username  ="+username) # 50.87.253.53
-        Creds.Sender.mail(report, username)
+        # Creds.Sender.mail(report, username)
         choice = int(input(
                 Font.Color.BLUE + "\n[?]" + Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Transfer", "Question", "None") + Font.Color.GREEN + "[#MP#]" + Font.Color.WHITE + "-->"))
         if choice == 1:
             FileTransfer.Transfer.File(report,username,".txt") 
-        Encoding.Encoder.Encode(report)
-        inp = input(Language.Translation.Translate_Language(
-                        filename, "Default", "Continue", "None"))
+        # Encoding.Encoder.Encode(report)
+        # inp = input(Language.Translation.Translate_Language(
+                        # filename, "Default", "Continue", "None"))

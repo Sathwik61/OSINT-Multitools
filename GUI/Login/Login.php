@@ -27,7 +27,7 @@ License: GNU General Public License v3.0-->
         Get_Language($Modality);
     ?>
         <div class = "Top-bar">
-            <p>MR.HOLMES</p>
+            <p>MP</p>
             <div class = "languages">
                 <button id = "Current" onclick="Active_Language()">English</button>
                 <div class = "Content" id = "Content">
