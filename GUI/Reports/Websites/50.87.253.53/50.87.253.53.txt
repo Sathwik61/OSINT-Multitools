@@ -1,5 +1,5 @@
 SCANNING EXECUTED ON:
-Date: 18/12/2024 23:16:38
+Date: 19/12/2024 09:55:36
 IP: 50.87.253.53
 NATION: United States
 NATION-CODE: US
@@ -40,7 +40,6 @@ Updated:        2012-11-14
 Ref:            https://rdap.arin.net/registry/ip/50.87.0.0
 
 
-
 OrgName:        Unified Layer
 OrgId:          BLUEH-2
 Address:        1958 South 950 East
@@ -54,11 +53,11 @@ Ref:            https://rdap.arin.net/registry/entity/BLUEH-2
 
 ReferralServer:  rwhois://rwhois.unifiedlayer.com:4321
 
-OrgTechHandle: ENO74-ARIN
-OrgTechName:   EIG Network Operations
-OrgTechPhone:  +1-781-852-3200 
-OrgTechEmail:  eig-noc@endurance.com
-OrgTechRef:    https://rdap.arin.net/registry/entity/ENO74-ARIN
+OrgNOCHandle: ENO74-ARIN
+OrgNOCName:   EIG Network Operations
+OrgNOCPhone:  +1-877-659-6181 
+OrgNOCEmail:  eig-net-team@endurance.com
+OrgNOCRef:    https://rdap.arin.net/registry/entity/ENO74-ARIN
 
 OrgAbuseHandle: NOC2320-ARIN
 OrgAbuseName:   Network Operations Center
@@ -66,11 +65,11 @@ OrgAbusePhone:  +1-801-765-9400
 OrgAbuseEmail:  abuse@bluehost.com
 OrgAbuseRef:    https://rdap.arin.net/registry/entity/NOC2320-ARIN
 
-OrgNOCHandle: ENO74-ARIN
-OrgNOCName:   EIG Network Operations
-OrgNOCPhone:  +1-781-852-3200 
-OrgNOCEmail:  eig-noc@endurance.com
-OrgNOCRef:    https://rdap.arin.net/registry/entity/ENO74-ARIN
+OrgTechHandle: ENO74-ARIN
+OrgTechName:   EIG Network Operations
+OrgTechPhone:  +1-877-659-6181 
+OrgTechEmail:  eig-net-team@endurance.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ENO74-ARIN
 
 
 #
@@ -115,3 +114,10 @@ DESCRIPTION: TLSA record not configured or configured wrong
 CODE: 6019
 DESCRIPTION: OCSP stapling not configured
 CODE: 6006
+
+MALICIOUS/FAKE LINK FOUND ON:
+GOOD LOOKS LIKE THIS WEBSITE/DOMAIN IS SAFE :-)
+FOR MAJOR INFORMATION CONSULT THESE LINKS...
+https://www.scamadviser.com/check-website/50.87.253.53
+https://www.ssltrust.com.au/ssl-tools/website-security-check?domain=50.87.253.53
+https://www.islegitsite.com/check/50.87.253.53

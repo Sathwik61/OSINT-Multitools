@@ -263,14 +263,14 @@ class Phone_search:
         f.write(Language.Translation.Translate_Language(
             filename, "Report", "Default", "By"))
         f.close()
-        Notification.Notifier.Start(Mode)
-        Creds.Sender.mail(report, username)
+        # Notification.Notifier.Start(Mode)
+        # Creds.Sender.mail(report, username)
         choice = int(input(
                 Font.Color.BLUE + "\n[?]" + Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Transfer", "Question", "None") + Font.Color.GREEN + "[#MP#]" + Font.Color.WHITE + "-->"))
         if choice == 1:
             FileTransfer.Transfer.File(report,username,".txt")
-        Encoding.Encoder.Encode(report)
-        print(Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Default", "Report", "None") +
-        report)
-        inp = input(Language.Translation.Translate_Language(
-                        filename, "Default", "Continue", "None"))
+        # Encoding.Encoder.Encode(report)
+        # print(Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Default", "Report", "None") +
+        # report)
+        # inp = input(Language.Translation.Translate_Language(
+        #                 filename, "Default", "Continue", "None"))

@@ -56,7 +56,7 @@ License: GNU General Public License v3.0-->
                     ?>
                 </div>
             </div>
-            <div class = "languages">
+            <!-- <div class = "languages">
                 <button id = "Current" onclick="Active_Language()"></button>
                 <div class = "Content" id = "Content">
                     <?php 
@@ -65,7 +65,7 @@ License: GNU General Public License v3.0-->
                         List_Languages($Modality);
                     ?>
                 </div>
-            </div>
+            </div> -->
             <div class = "Link">
                 <a href = "Username.php"></a>
                 <a href = "Websites.php"></a>

@@ -1,7 +1,12 @@
 SCANNING EXECUTED ON:
-Date: 12/12/2024 12:13:42
+Date: 19/12/2024 10:20:05
 --------------------------------
 SHOWING TIKTOK RESULTS FOR: vaibhavprocastix
+
+USER FOUND: @vaibhavpro
+FOLLOWERS: 188 followers
+
+LINK: https://tiktok.com/@vaibhavpro
 
 USER FOUND: @vaibhav.prxd
 FOLLOWERS: 3.82K followers
@@ -18,3 +23,20 @@ SHOWING GITHUB RESULTS FOR: vaibhavprocastix
 USER FOUND: vaibhavprocastix
 PROFILE-PIC: https://avatars.githubusercontent.com/u/126271305?v=4
 LINK: https://github.com/vaibhavprocastix
+
+GIT-HUB DATA:
+USERNAME: vaibhavprocastix
+BIO: None
+REPOSITORIES: 5
+GISTS: 0
+CREATED-ON: 2023-02-24T15:43:31Z
+UPDATED-ON: 2024-12-18T18:48:55Z
+FOLLOWERS: 0
+FOLLOWING: 1
+BLOG: 
+LOCATION: None
+NAME: Vaibhav V Acharya
+EMAIL: None
+TWITTER: None
+HIREABLE: None
+COMPANY: None

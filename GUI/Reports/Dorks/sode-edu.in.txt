@@ -1,182 +1,47 @@
 SCANNING EXECUTED ON:
-Date: 18/12/2024 22:02:08
+Date: 19/12/2024 10:27:18
 
 GOOGLE-DORKS:
 
 [GENERAL-DORKS]:
 ----------------------------------------------------------------------------------------------------------------------
-| https://www.google.com/search?q=inurl:sode-edu.in
-| https://www.google.com/search?q=intext:sode-edu.in
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:txt
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:csv
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:pdf
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:doc
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:docx
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:log
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:json
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:xml
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:xls
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:xlsx
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:odt
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:html
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:php
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:asp
-----------------------------------------------------------------------------------------------------------------------
-[IMAGE-DORKS]:
-----------------------------------------------------------------------------------------------------------------------
-| https://www.google.com/search?q=intext:sode-edu.in&hl=&tbm=isch&source=hp&biw=&bih=&sclient=img
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:png&hl=&tbm=isch&source=hp&biw=&bih=&sclient=img
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:jpg&hl=&tbm=isch&source=hp&biw=&bih=&sclient=img
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:jpeg&hl=&tbm=isch&source=hp&biw=&bih=&sclient=img
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:gif&hl=&tbm=isch&source=hp&biw=&bih=&sclient=img
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:raw&hl=&tbm=isch&source=hp&biw=&bih=&sclient=img
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:ico&hl=&tbm=isch&source=hp&biw=&bih=&sclient=img
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:bmp&hl=&tbm=isch&source=hp&biw=&bih=&sclient=img
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:svg&hl=&tbm=isch&source=hp&biw=&bih=&sclient=img
-| https://www.google.com/search?q=intext:sode-edu.in+filetype:webp&hl=&tbm=isch&source=hp&biw=&bih=&sclient=img
-----------------------------------------------------------------------------------------------------------------------
-[VIDEO/AUDIO-DORKS]:
-----------------------------------------------------------------------------------------------------------------------
-| https://www.google.com/search?q=intext:sode-edu.in&hl=&tbm=vid&ei=sclient=gws-wiz-video
-| https://www.google.com/search?q=site:www.youtube.com+intext:sode-edu.in&hl=&tbm=vid&ei=sclient=gws-wiz-video
-| https://www.google.com/search?q=site:www.tiktok.com+intext:sode-edu.in&hl=&tbm=vid&ei=sclient=gws-wiz-video
-| https://www.google.com/search?q=site:www.facebook.com+intext:sode-edu.in&hl=&tbm=vid&ei=sclient=gws-wiz-video
-| https://www.google.com/search?q=site:www.twitter.com+intext:sode-edu.in&hl=&tbm=vid&ei=sclient=gws-wiz-video
-| https://www.google.com/search?q=site:www.twitch.tv+intext:sode-edu.in&hl=&tbm=vid&ei=sclient=gws-wiz-video
-| https://www.google.com/search?q=site:www.instagram.com+intext:sode-edu.in&hl=&tbm=vid&ei=sclient=gws-wiz-video
-----------------------------------------------------------------------------------------------------------------------
-[EMAIL-DORKS]:
-----------------------------------------------------------------------------------------------------------------------
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Email+OR+E-mail+OR+email+OR+e-mail)
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Email+OR+E-mail+OR+email+OR+e-mail)+filetype:txt
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Email+OR+E-mail+OR+email+OR+e-mail)+filetype:csv
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Email+OR+E-mail+OR+email+OR+e-mail)+filetype:pdf
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Email+OR+E-mail+OR+email+OR+e-mail)+filetype:doc
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Email+OR+E-mail+OR+email+OR+e-mail)+filetype:docx
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Email+OR+E-mail+OR+email+OR+e-mail)+filetype:log
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Email+OR+E-mail+OR+email+OR+e-mail)+filetype:json
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Email+OR+E-mail+OR+email+OR+e-mail)+filetype:xml
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Email+OR+E-mail+OR+email+OR+e-mail)+filetype:xls
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Email+OR+E-mail+OR+email+OR+e-mail)+filetype:xlsx
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Email+OR+E-mail+OR+email+OR+e-mail)+filetype:odt
-----------------------------------------------------------------------------------------------------------------------
-[PASSWORD-DORKS]:
-----------------------------------------------------------------------------------------------------------------------
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Password+OR+password+OR+PASSWORD)
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Password+OR+password+OR+PASSWORD)+filetype:txt
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Password+OR+password+OR+PASSWORD)+filetype:csv
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Password+OR+password+OR+PASSWORD)+filetype:pdf
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Password+OR+password+OR+PASSWORD)+filetype:doc
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Password+OR+password+OR+PASSWORD)+filetype:docx
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Password+OR+password+OR+PASSWORD)+filetype:log
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Password+OR+password+OR+PASSWORD)+filetype:json
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Password+OR+password+OR+PASSWORD)+filetype:xml
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Password+OR+password+OR+PASSWORD)+filetype:xls
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Password+OR+password+OR+PASSWORD)+filetype:xlsx
-| https://www.google.com/search?q=intext:%22sode-edu.in%22(Password+OR+password+OR+PASSWORD)+filetype:odt
-----------------------------------------------------------------------------------------------------------------------
-[INTITLE-DORKS]:
-----------------------------------------------------------------------------------------------------------------------
-| https://www.google.com/search?q=intitle:sode-edu.in+filetype:txt
-| https://www.google.com/search?q=intitle:sode-edu.in+filetype:csv
-| https://www.google.com/search?q=intitle:sode-edu.in+filetype:pdf
-| https://www.google.com/search?q=intitle:sode-edu.in+filetype:doc
-| https://www.google.com/search?q=intitle:sode-edu.in+filetype:docx
-| https://www.google.com/search?q=intitle:sode-edu.in+filetype:log
-| https://www.google.com/search?q=intitle:sode-edu.in+filetype:json
-| https://www.google.com/search?q=intitle:sode-edu.in+filetype:xml
-| https://www.google.com/search?q=intitle:sode-edu.in+filetype:xls
-| https://www.google.com/search?q=intitle:sode-edu.in+filetype:xlsx
-| https://www.google.com/search?q=intitle:sode-edu.in+filetype:odt
-| https://www.google.com/search?q=intitle:sode-edu.in+filetype:html
-| https://www.google.com/search?q=intitle:sode-edu.in+filetype:php
-| https://www.google.com/search?q=intitle:sode-edu.in+filetype:asp
+| https://www.google.com/search?q=site:(www.%22sode-edu.in%22)+-"intitle:article"
+| https://www.google.com/search?q=site:sode-edu.in+filetype:txt
+| https://www.google.com/search?q=site:sode-edu.in filetype:pdf
+| https://www.google.com/search?q=site:sode-edu.in+filetype:log
+| https://www.google.com/search?q=site:sode-edu.in+filetype:doc
+| https://www.google.com/search?q=site:sode-edu.in+filetype:docx
+| https://www.google.com/search?q=site:sode-edu.in+filetype:sqlite
+| https://www.google.com/search?q=site:sode-edu.in+filetype:yaml
+| https://www.google.com/search?q=site:sode-edu.in+filetype:json
+| https://www.google.com/search?q=site:sode-edu.in+filetype:xls
+| https://www.google.com/search?q=site:sode-edu.in+filetype:xlsx
+| https://www.google.com/search?q=site:sode-edu.in+filetype:csv
+| https://www.google.com/search?q=site:sode-edu.in+filetype:md
+| https://www.google.com/search?q=site:sode-edu.in+intext:admin+OR+Admin
+| https://www.google.com/search?q=site:sode-edu.in+intext:emails+OR+Emails+OR+EMAILS
+| https://www.google.com/search?q=site:sode-edu.in+intitle:admin+OR+Admin
+| https://www.google.com/search?q=intext:(%22sode-edu.in%22+OR+%22sode-edu.in%22)+-"intitle:article"
+| https://www.google.com/search?q=inurl:(%22sode-edu.in%22+OR+%22sode-edu.in%22)+-"intitle:article"
 ----------------------------------------------------------------------------------------------------------------------
 
 YANDEX-DORKS:
 
 [GENERAL-DORKS]:
 ----------------------------------------------------------------------------------------------------------------------
-| https://yandex.com/search/?text=("sode-edu.in")
-| https://yandex.com/search/?text=("sode-edu.in")mime:txt
-| https://yandex.com/search/?text=("sode-edu.in")mime:pdf
-| https://yandex.com/search/?text=("sode-edu.in")mime:csv
-| https://yandex.com/search/?text=("sode-edu.in")mime:doc
-| https://yandex.com/search/?text=("sode-edu.in")mime:docx
-| https://yandex.com/search/?text=("sode-edu.in")mime:log
-| https://yandex.com/search/?text=("sode-edu.in")mime:json
-| https://yandex.com/search/?text=("sode-edu.in")mime:xml
-| https://yandex.com/search/?text=("sode-edu.in")mime:xls
-| https://yandex.com/search/?text=("sode-edu.in")mime:xlsx
-| https://yandex.com/search/?text=("sode-edu.in")mime:odt
-| https://yandex.com/search/?text=("sode-edu.in")mime:html
-| https://yandex.com/search/?text=("sode-edu.in")mime:php
-| https://yandex.com/search/?text=("sode-edu.in")mime:asp
-----------------------------------------------------------------------------------------------------------------------
-[IMAGE-DORKS]:
-----------------------------------------------------------------------------------------------------------------------
-| https://yandex.com/images/search?from=tabbar&text=("sode-edu.in")
-| https://yandex.com/images/search?from=tabbar&text=("sode-edu.in")&itype=jpg
-| https://yandex.com/images/search?from=tabbar&text=("sode-edu.in")&itype=png
-| https://yandex.com/images/search?from=tabbar&text=("sode-edu.in")&itype=gifan
-----------------------------------------------------------------------------------------------------------------------
-[VIDEO/AUDIO-DORKS]:
-----------------------------------------------------------------------------------------------------------------------
-| https://yandex.com/video/search?from=tabbar&text=("sode-edu.in")
-| https://yandex.com/video/search?from=tabbar&text=site:youtube.com+("sode-edu.in")
-| https://yandex.com/video/search?from=tabbar&text=site:tiktok.com+("sode-edu.in")
-| https://yandex.com/video/search?from=tabbar&text=site:facebook.com+("sode-edu.in")
-| https://yandex.com/video/search?from=tabbar&text=site:twitter.com+("sode-edu.in")
-| https://yandex.com/video/search?from=tabbar&text=site:twitch.tv+("sode-edu.in")
-| https://yandex.com/video/search?from=tabbar&text=site:instagram.com+("sode-edu.in")
-----------------------------------------------------------------------------------------------------------------------
-[EMAIL-DORKS]:
-----------------------------------------------------------------------------------------------------------------------
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Email|!email|!E-mail|!e-mail)
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Email|!email|!E-mail|!e-mail)mime:txt
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Email|!email|!E-mail|!e-mail)mime:pdf
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Email|!email|!E-mail|!e-mail)mime:csv
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Email|!email|!E-mail|!e-mail)mime:doc
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Email|!email|!E-mail|!e-mail)mime:docx
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Email|!email|!E-mail|!e-mail)mime:log
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Email|!email|!E-mail|!e-mail)mime:json
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Email|!email|!E-mail|!e-mail)mime:xml
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Email|!email|!E-mail|!e-mail)mime:xls
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Email|!email|!E-mail|!e-mail)mime:xlsx
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Email|!email|!E-mail|!e-mail)mime:odt
-----------------------------------------------------------------------------------------------------------------------
-[PASSWORD-DORKS]:
-----------------------------------------------------------------------------------------------------------------------
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Password|!password|!PASSWORD)
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Password|!password|!PASSWORD)mime:txt
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Password|!password|!PASSWORD)mime:pdf
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Password|!password|!PASSWORD)mime:csv
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Password|!password|!PASSWORD)mime:doc
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Password|!password|!PASSWORD)mime:docx
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Password|!password|!PASSWORD)mime:log
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Password|!password|!PASSWORD)mime:json
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Password|!password|!PASSWORD)mime:xml
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Password|!password|!PASSWORD)mime:xls
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Password|!password|!PASSWORD)mime:xlsx
-| https://yandex.com/search/?text="sode-edu.in"%2B(!Password|!password|!PASSWORD)mime:odt
-----------------------------------------------------------------------------------------------------------------------
-[INTITLE-DORKS]:
-----------------------------------------------------------------------------------------------------------------------
-| https://yandex.com/search/?text=title:("sode-edu.in")
-| https://yandex.com/search/?text=title:("sode-edu.in")mime:txt
-| https://yandex.com/search/?text=title:("sode-edu.in")mime:pdf
-| https://yandex.com/search/?text=title:("sode-edu.in")mime:csv
-| https://yandex.com/search/?text=title:("sode-edu.in")mime:doc
-| https://yandex.com/search/?text=title:("sode-edu.in")mime:docx
-| https://yandex.com/search/?text=title:("sode-edu.in")mime:log
-| https://yandex.com/search/?text=title:("sode-edu.in")mime:json
-| https://yandex.com/search/?text=title:("sode-edu.in")mime:xml
-| https://yandex.com/search/?text=title:("sode-edu.in")mime:xls
-| https://yandex.com/search/?text=title:("sode-edu.in")mime:xlsx
-| https://yandex.com/search/?text=title:("sode-edu.in")mime:odt
-| https://yandex.com/search/?text=title:("sode-edu.in")mime:html
-| https://yandex.com/search/?text=title:("sode-edu.in")mime:php
-| https://yandex.com/search/?text=title:("sode-edu.in")mime:asp
+| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"
+| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"+mime:txt
+| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"+mime:pdf
+| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"+mime:log
+| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"+mime:doc
+| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"+mime:docx
+| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"+mime:sqlite
+| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"+mime:yaml
+| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"+mime:json
+| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"+mime:xls
+| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"+mime:xlsx
+| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"+mime:csv
+| https://yandex.com/search/?text=inurl:("sode-edu.in")+-"intitle:article"
 ----------------------------------------------------------------------------------------------------------------------
 
 SCANNING EXECUTED WITH Team MP

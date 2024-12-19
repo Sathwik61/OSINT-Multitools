@@ -1,0 +1,176 @@
+GOOGLE-DORKS:
+
+[GENERAL-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://www.google.com/search?q=inurl:vaibhavprocastix
+| https://www.google.com/search?q=intext:vaibhavprocastix
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:txt
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:csv
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:pdf
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:doc
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:docx
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:log
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:json
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:xml
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:xls
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:xlsx
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:odt
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:html
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:php
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:asp
+----------------------------------------------------------------------------------------------------------------------
+[IMAGE-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://www.google.com/search?q=intext:vaibhavprocastix&hl=&tbm=isch&source=hp&biw=&bih=&sclient=img
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:png&hl=&tbm=isch&source=hp&biw=&bih=&sclient=img
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:jpg&hl=&tbm=isch&source=hp&biw=&bih=&sclient=img
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:jpeg&hl=&tbm=isch&source=hp&biw=&bih=&sclient=img
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:gif&hl=&tbm=isch&source=hp&biw=&bih=&sclient=img
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:raw&hl=&tbm=isch&source=hp&biw=&bih=&sclient=img
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:ico&hl=&tbm=isch&source=hp&biw=&bih=&sclient=img
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:bmp&hl=&tbm=isch&source=hp&biw=&bih=&sclient=img
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:svg&hl=&tbm=isch&source=hp&biw=&bih=&sclient=img
+| https://www.google.com/search?q=intext:vaibhavprocastixfiletype:webp&hl=&tbm=isch&source=hp&biw=&bih=&sclient=img
+----------------------------------------------------------------------------------------------------------------------
+[VIDEO/AUDIO-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://www.google.com/search?q=intext:vaibhavprocastix&hl=&tbm=vid&ei=sclient=gws-wiz-video
+| https://www.google.com/search?q=site:www.youtube.com+intext:vaibhavprocastix&hl=&tbm=vid&ei=sclient=gws-wiz-video
+| https://www.google.com/search?q=site:www.tiktok.com+intext:vaibhavprocastix&hl=&tbm=vid&ei=sclient=gws-wiz-video
+| https://www.google.com/search?q=site:www.facebook.com+intext:vaibhavprocastix&hl=&tbm=vid&ei=sclient=gws-wiz-video
+| https://www.google.com/search?q=site:www.twitter.com+intext:vaibhavprocastix&hl=&tbm=vid&ei=sclient=gws-wiz-video
+| https://www.google.com/search?q=site:www.twitch.tv+intext:vaibhavprocastix&hl=&tbm=vid&ei=sclient=gws-wiz-video
+| https://www.google.com/search?q=site:www.instagram.com+intext:vaibhavprocastix&hl=&tbm=vid&ei=sclient=gws-wiz-video
+----------------------------------------------------------------------------------------------------------------------
+[EMAIL-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Email+OR+E-mail+OR+email+OR+e-mail)
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Email+OR+E-mail+OR+email+OR+e-mail)filetype:txt
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Email+OR+E-mail+OR+email+OR+e-mail)filetype:csv
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Email+OR+E-mail+OR+email+OR+e-mail)filetype:pdf
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Email+OR+E-mail+OR+email+OR+e-mail)filetype:doc
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Email+OR+E-mail+OR+email+OR+e-mail)filetype:docx
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Email+OR+E-mail+OR+email+OR+e-mail)filetype:log
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Email+OR+E-mail+OR+email+OR+e-mail)filetype:json
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Email+OR+E-mail+OR+email+OR+e-mail)filetype:xml
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Email+OR+E-mail+OR+email+OR+e-mail)filetype:xls
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Email+OR+E-mail+OR+email+OR+e-mail)filetype:xlsx
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Email+OR+E-mail+OR+email+OR+e-mail)filetype:odt
+----------------------------------------------------------------------------------------------------------------------
+[PASSWORD-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Password+OR+password+OR+PASSWORD)
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Password+OR+password+OR+PASSWORD)filetype:txt
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Password+OR+password+OR+PASSWORD)filetype:csv
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Password+OR+password+OR+PASSWORD)filetype:pdf
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Password+OR+password+OR+PASSWORD)filetype:doc
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Password+OR+password+OR+PASSWORD)filetype:docx
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Password+OR+password+OR+PASSWORD)filetype:log
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Password+OR+password+OR+PASSWORD)filetype:json
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Password+OR+password+OR+PASSWORD)filetype:xml
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Password+OR+password+OR+PASSWORD)filetype:xls
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Password+OR+password+OR+PASSWORD)filetype:xlsx
+| https://www.google.com/search?q=intext:%22vaibhavprocastix%22(Password+OR+password+OR+PASSWORD)filetype:odt
+----------------------------------------------------------------------------------------------------------------------
+[INTITLE-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://www.google.com/search?q=intitle:vaibhavprocastixfiletype:txt
+| https://www.google.com/search?q=intitle:vaibhavprocastixfiletype:csv
+| https://www.google.com/search?q=intitle:vaibhavprocastixfiletype:pdf
+| https://www.google.com/search?q=intitle:vaibhavprocastixfiletype:doc
+| https://www.google.com/search?q=intitle:vaibhavprocastixfiletype:docx
+| https://www.google.com/search?q=intitle:vaibhavprocastixfiletype:log
+| https://www.google.com/search?q=intitle:vaibhavprocastixfiletype:json
+| https://www.google.com/search?q=intitle:vaibhavprocastixfiletype:xml
+| https://www.google.com/search?q=intitle:vaibhavprocastixfiletype:xls
+| https://www.google.com/search?q=intitle:vaibhavprocastixfiletype:xlsx
+| https://www.google.com/search?q=intitle:vaibhavprocastixfiletype:odt
+| https://www.google.com/search?q=intitle:vaibhavprocastixfiletype:html
+| https://www.google.com/search?q=intitle:vaibhavprocastixfiletype:php
+| https://www.google.com/search?q=intitle:vaibhavprocastixfiletype:asp
+----------------------------------------------------------------------------------------------------------------------
+YANDEX-DORKS:
+
+[GENERAL-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://yandex.com/search/?text=vaibhavprocastix
+| https://yandex.com/search/?text=(vaibhavprocastix)mime:txt
+| https://yandex.com/search/?text=(vaibhavprocastix)mime:pdf
+| https://yandex.com/search/?text=(vaibhavprocastix)mime:csv
+| https://yandex.com/search/?text=(vaibhavprocastix)mime:doc
+| https://yandex.com/search/?text=(vaibhavprocastix)mime:docx
+| https://yandex.com/search/?text=(vaibhavprocastix)mime:log
+| https://yandex.com/search/?text=(vaibhavprocastix)mime:json
+| https://yandex.com/search/?text=(vaibhavprocastix)mime:xml
+| https://yandex.com/search/?text=(vaibhavprocastix)mime:xls
+| https://yandex.com/search/?text=(vaibhavprocastix)mime:xlsx
+| https://yandex.com/search/?text=(vaibhavprocastix)mime:odt
+| https://yandex.com/search/?text=(vaibhavprocastix)mime:html
+| https://yandex.com/search/?text=(vaibhavprocastix)mime:php
+| https://yandex.com/search/?text=(vaibhavprocastix)mime:asp
+----------------------------------------------------------------------------------------------------------------------
+[IMAGE-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://yandex.com/images/search?from=tabbar&text=vaibhavprocastix
+| https://yandex.com/images/search?from=tabbar&text=vaibhavprocastix&itype=jpg
+| https://yandex.com/images/search?from=tabbar&text=vaibhavprocastix&itype=png
+| https://yandex.com/images/search?from=tabbar&text=vaibhavprocastix&itype=gifan
+----------------------------------------------------------------------------------------------------------------------
+[VIDEO/AUDIO-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://yandex.com/video/search?from=tabbar&text=vaibhavprocastix
+| https://yandex.com/video/search?from=tabbar&text=site:youtube.com+vaibhavprocastix
+| https://yandex.com/video/search?from=tabbar&text=site:tiktok.com+vaibhavprocastix
+| https://yandex.com/video/search?from=tabbar&text=site:facebook.com+vaibhavprocastix
+| https://yandex.com/video/search?from=tabbar&text=site:twitter.com+vaibhavprocastix
+| https://yandex.com/video/search?from=tabbar&text=site:twitch.tv+vaibhavprocastix
+| https://yandex.com/video/search?from=tabbar&text=site:instagram.com+vaibhavprocastix
+----------------------------------------------------------------------------------------------------------------------
+[EMAIL-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Email|!email|!E-mail|!e-mail)
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Email|!email|!E-mail|!e-mail)mime:txt
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Email|!email|!E-mail|!e-mail)mime:pdf
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Email|!email|!E-mail|!e-mail)mime:csv
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Email|!email|!E-mail|!e-mail)mime:doc
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Email|!email|!E-mail|!e-mail)mime:docx
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Email|!email|!E-mail|!e-mail)mime:log
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Email|!email|!E-mail|!e-mail)mime:json
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Email|!email|!E-mail|!e-mail)mime:xml
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Email|!email|!E-mail|!e-mail)mime:xls
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Email|!email|!E-mail|!e-mail)mime:xlsx
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Email|!email|!E-mail|!e-mail)mime:odt
+----------------------------------------------------------------------------------------------------------------------
+[PASSWORD-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Password|!password|!PASSWORD)
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Password|!password|!PASSWORD)mime:txt
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Password|!password|!PASSWORD)mime:pdf
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Password|!password|!PASSWORD)mime:csv
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Password|!password|!PASSWORD)mime:doc
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Password|!password|!PASSWORD)mime:docx
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Password|!password|!PASSWORD)mime:log
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Password|!password|!PASSWORD)mime:json
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Password|!password|!PASSWORD)mime:xml
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Password|!password|!PASSWORD)mime:xls
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Password|!password|!PASSWORD)mime:xlsx
+| https://yandex.com/search/?text=vaibhavprocastix%2B(!Password|!password|!PASSWORD)mime:odt
+----------------------------------------------------------------------------------------------------------------------
+[INTITLE-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://yandex.com/search/?text=title:vaibhavprocastix
+| https://yandex.com/search/?text=title:(vaibhavprocastix)mime:txt
+| https://yandex.com/search/?text=title:(vaibhavprocastix)mime:pdf
+| https://yandex.com/search/?text=title:(vaibhavprocastix)mime:csv
+| https://yandex.com/search/?text=title:(vaibhavprocastix)mime:doc
+| https://yandex.com/search/?text=title:(vaibhavprocastix)mime:docx
+| https://yandex.com/search/?text=title:(vaibhavprocastix)mime:log
+| https://yandex.com/search/?text=title:(vaibhavprocastix)mime:json
+| https://yandex.com/search/?text=title:(vaibhavprocastix)mime:xml
+| https://yandex.com/search/?text=title:(vaibhavprocastix)mime:xls
+| https://yandex.com/search/?text=title:(vaibhavprocastix)mime:xlsx
+| https://yandex.com/search/?text=title:(vaibhavprocastix)mime:odt
+| https://yandex.com/search/?text=title:(vaibhavprocastix)mime:html
+| https://yandex.com/search/?text=title:(vaibhavprocastix)mime:php
+| https://yandex.com/search/?text=title:(vaibhavprocastix)mime:asp
+----------------------------------------------------------------------------------------------------------------------
