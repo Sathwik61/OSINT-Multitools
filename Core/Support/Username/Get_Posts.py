@@ -1,7 +1,4 @@
-# ORIGINAL CREATOR: Luca Garofalo (Lucksi)
-# AUTHOR: Luca Garofalo (Lucksi)
-# Copyright (C) 2021-2024 Lucksi <lukege287@gmail.com>
-# License: GNU General Public License v3.0
+
 
 import os
 import requests

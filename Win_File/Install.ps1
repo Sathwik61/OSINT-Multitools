@@ -1,7 +1,3 @@
-# ORIGINAL CREATOR: Luca Garofalo (Lucksi)
-# AUTHOR: Luca Garofalo (Lucksi)
-# Copyright (C) 2021-2023 Lucksi <lukege287@gmail.com>
-# License: GNU General Public License v3.0
 
 function Banner(){
     Clear-Host
@@ -16,9 +12,9 @@ function Packet_Installer(){
 }
 
 function Preferences(){
-    $Language = Read-Host -Prompt "`nSELECT YOUR GUI-DEFAULT LANGUAGE`n(1)ENGLISH`n(2)ITALIANO`n(3)FRANCAIS`n`n[#MR.HOLMES#]-->"
+    $Language = Read-Host -Prompt "`nSELECT YOUR GUI-DEFAULT LANGUAGE`n(1)ENGLISH`n(2)ITALIANO`n(3)FRANCAIS`n`n[#Team Mp#]-->"
     while($Language -eq ""){
-        $Color = Read-Host -Prompt "`nSELECT YOUR GUI-DEFAULT LANGUAGE`n(1)ENGLISH`n(2)ITALIANO`n(3)FRANCAIS`n`n[#MR.HOLMES#]-->"
+        $Color = Read-Host -Prompt "`nSELECT YOUR GUI-DEFAULT LANGUAGE`n(1)ENGLISH`n(2)ITALIANO`n(3)FRANCAIS`n`n[#Team Mp#]-->"
     }
     if($Language -eq 1){
         '{
@@ -46,9 +42,9 @@ function Preferences(){
     }
 
     Write-Host "`nGUI-LANGUAGE:$mode"
-    $Color = Read-Host -Prompt "`nSELECT YOUR GUI-DEFAULT THEME`n(1)LIGHT`n(2)DARK`n(3)HIGH-CONTRAST`n`n[#MR.HOLMES#]-->"
+    $Color = Read-Host -Prompt "`nSELECT YOUR GUI-DEFAULT THEME`n(1)LIGHT`n(2)DARK`n(3)HIGH-CONTRAST`n`n[#Team Mp#]-->"
     while($Color -eq ""){
-        $Color = Read-Host -Prompt "`nSELECT YOUR GUI-DEFAULT THEME`n(1)LIGHT`n(2)DARK`n(3)HIGH-CONTRAST`n`n[#MR.HOLMES#]-->"
+        $Color = Read-Host -Prompt "`nSELECT YOUR GUI-DEFAULT THEME`n(1)LIGHT`n(2)DARK`n(3)HIGH-CONTRAST`n`n[#Team Mp#]-->"
     }
     if($Color -eq 1){
         '{
@@ -78,31 +74,31 @@ function Preferences(){
 }
 
 function Mail_Options(){
-    $Opt = Read-Host -Prompt "`nWOULD YOU LIKE TO ENABLE EMAIL-OPTION(1)YES(2)NO`n`n[#MR.HOLMES#]-->"
+    $Opt = Read-Host -Prompt "`nWOULD YOU LIKE TO ENABLE EMAIL-OPTION(1)YES(2)NO`n`n[#Team Mp#]-->"
     while($Opt -eq ""){
-        $Email = Read-Host -Prompt "`nWOULD YOU LIKE TO ENABLE EMAIL-OPTION(1)YES(2)NO`n`n[#MR.HOLMES#]-->"
+        $Email = Read-Host -Prompt "`nWOULD YOU LIKE TO ENABLE EMAIL-OPTION(1)YES(2)NO`n`n[#Team Mp#]-->"
     }
     if ($Opt -eq 1){
         $Status = "Enabled"
-        $Email = Read-Host -Prompt "`nINSERT YOUR EMAIL ADDRESS`n`n[#MR.HOLMES#]-->"
+        $Email = Read-Host -Prompt "`nINSERT YOUR EMAIL ADDRESS`n`n[#Team Mp#]-->"
         while($Email -eq ""){
-            $Email = Read-Host -Prompt "`nINSERT YOUR EMAIL ADDRESS`n`n[#MR.HOLMES#]-->"
+            $Email = Read-Host -Prompt "`nINSERT YOUR EMAIL ADDRESS`n`n[#Team Mp#]-->"
         }
-        $Password = Read-Host -Prompt "`nINSERT YOUR EMAIL PASSWORD`n`n[#MR.HOLMES#]-->"
+        $Password = Read-Host -Prompt "`nINSERT YOUR EMAIL PASSWORD`n`n[#Team Mp#]-->"
         while($Password -eq ""){
-            $Password = Read-Host -Prompt "`nINSERT YOUR EMAIL PASSWORD`n`n[#MR.HOLMES#]-->"
+            $Password = Read-Host -Prompt "`nINSERT YOUR EMAIL PASSWORD`n`n[#Team Mp#]-->"
         }
-        $Destination = Read-Host -Prompt "`nINSERT YOUR DESTINATION EMAIL`n`n[#MR.HOLMES#]-->"
+        $Destination = Read-Host -Prompt "`nINSERT YOUR DESTINATION EMAIL`n`n[#Team Mp#]-->"
         while($Destination -eq ""){
-            $Destination = Read-Host -Prompt "`nINSERT YOUR DESTINATION EMAIL`n`n[#MR.HOLMES#]-->"
+            $Destination = Read-Host -Prompt "`nINSERT YOUR DESTINATION EMAIL`n`n[#Team Mp#]-->"
         }
-        $Server = Read-Host -Prompt "`nINSERT YOUR SMTP-SERVER`n`n[#MR.HOLMES#]-->"
+        $Server = Read-Host -Prompt "`nINSERT YOUR SMTP-SERVER`n`n[#Team Mp#]-->"
         while($Server -eq ""){
-            $Server = Read-Host -Prompt "`nINSERT YOUR SMTP-SERVER`n`n[#MR.HOLMES#]-->"
+            $Server = Read-Host -Prompt "`nINSERT YOUR SMTP-SERVER`n`n[#Team Mp#]-->"
         }
-        $Port = Read-Host -Prompt "`nINSERT YOUR SMTP SERVER-PORT`n`n[#MR.HOLMES#]-->"
+        $Port = Read-Host -Prompt "`nINSERT YOUR SMTP SERVER-PORT`n`n[#Team Mp#]-->"
         while($Port -eq ""){
-            $Port = Read-Host -Prompt "`nINSERT YOUR SMTP SERVER-PORT`n`n[#MR.HOLMES#]-->"
+            $Port = Read-Host -Prompt "`nINSERT YOUR SMTP SERVER-PORT`n`n[#Team Mp#]-->"
         }
     }
     elseif($Opt -eq 2){
@@ -120,25 +116,25 @@ function Mail_Options(){
 }
 
 function Options(){
-    $Update_Password = Read-Host -Prompt "`nINSERT YOUR UPDATE PASSWORD`n`n[#MR.HOLMES#]-->"
+    $Update_Password = Read-Host -Prompt "`nINSERT YOUR UPDATE PASSWORD`n`n[#Team Mp#]-->"
     while($Update_Password -eq ""){
-        $Update_Password = Read-Host -Prompt "`nINSERT YOUR UPDATE PASSWORD`n`n[#MR.HOLMES#]-->"
+        $Update_Password = Read-Host -Prompt "`nINSERT YOUR UPDATE PASSWORD`n`n[#Team Mp#]-->"
     }
-    $Api = Read-Host -Prompt "`nINSERT YOUR WHOIS API KEY 'LEAVE EMPTY IF YOU HAVENT ONE'`n`n[#MR.HOLMES#]-->"
+    $Api = Read-Host -Prompt "`nINSERT YOUR WHOIS API KEY 'LEAVE EMPTY IF YOU HAVENT ONE'`n`n[#Team Mp#]-->"
     if($Api -eq ""){
         $Api = "None"
     }
-    $Proxy_List = Read-Host -Prompt "`nINSERT YOUR PROXY-LIST 'LEAVE EMPTY FOR USE THE DEFAULT ONE'`n`n[#MR.HOLMES#]-->"
+    $Proxy_List = Read-Host -Prompt "`nINSERT YOUR PROXY-LIST 'LEAVE EMPTY FOR USE THE DEFAULT ONE'`n`n[#Team Mp#]-->"
     if($Proxy_List -eq ""){
         $Proxy_List = "Proxies/Proxy_list.txt"
     }
-    $Useragent_List = Read-Host -Prompt "`nINSERT YOUR USERAGENT-LIST 'LEAVE EMPTY FOR USE THE DEFAULT ONE'`n`n[#MR.HOLMES#]-->"
+    $Useragent_List = Read-Host -Prompt "`nINSERT YOUR USERAGENT-LIST 'LEAVE EMPTY FOR USE THE DEFAULT ONE'`n`n[#Team Mp#]-->"
     if($Useragent_List -eq ""){
         $Useragent_List = "Useragents/Useragent.txt"
     }
-    $Log_Session = Read-Host -Prompt "`nWOULD YOU LIKE TO SAVE YOUR LOG SESSION(1)YES(2)NO`n`n[#MR.HOLMES#]-->"
+    $Log_Session = Read-Host -Prompt "`nWOULD YOU LIKE TO SAVE YOUR LOG SESSION(1)YES(2)NO`n`n[#Team Mp#]-->"
     while ($Log_Session -eq ""){
-        $Log_Session = Read-Host -Prompt "`nWOULD YOU LIKE TO SAVE YOUR LOG SESSION(1)YES(2)NO`n`n[#MR.HOLMES#]-->"
+        $Log_Session = Read-Host -Prompt "`nWOULD YOU LIKE TO SAVE YOUR LOG SESSION(1)YES(2)NO`n`n[#Team Mp#]-->"
     }
     if($Log_Session -eq 1){
         $Log_Session = "True"
@@ -146,7 +142,7 @@ function Options(){
     elseif($Log_Session -eq 2) {
         $Log_Session = "False"
     }
-    $Token = Read-Host -Prompt "`nWOULD YOU LIKE TO ACCESS YOUR DATABASE ON OTHER DEVICES(ON THE SAME NETWORK)?(1)YES(2)NO`n`n[#MR.HOLMES#]-->"
+    $Token = Read-Host -Prompt "`nWOULD YOU LIKE TO ACCESS YOUR DATABASE ON OTHER DEVICES(ON THE SAME NETWORK)?(1)YES(2)NO`n`n[#Team Mp#]-->"
     if($Token -eq 1){
         $Token = "True"
     }
@@ -194,9 +190,9 @@ function Options(){
             ]
         }' | Out-File -FilePath .\GUI\Credentials\Users.json -Encoding Ascii
     }
-    $Lang = Read-Host -Prompt "`nINSERT YOUR CLI-LANGUAGE`n(1)ENGLISH`n(2)ITALIANO`n(3)FRANCAIS`n`n[#MR.HOLMES#]-->"
+    $Lang = Read-Host -Prompt "`nINSERT YOUR CLI-LANGUAGE`n(1)ENGLISH`n(2)ITALIANO`n(3)FRANCAIS`n`n[#Team Mp#]-->"
     while($Lang -eq ""){
-        $Lang = Read-Host -Prompt "`nINSERT YOUR CLI-LANGUAGE`n(1)ENGLISH`n(2)ITALIANO`n(3)FRANCAIS`n`n[#MR.HOLMES#]-->"
+        $Lang = Read-Host -Prompt "`nINSERT YOUR CLI-LANGUAGE`n(1)ENGLISH`n(2)ITALIANO`n(3)FRANCAIS`n`n[#Team Mp#]-->"
     }
     if($Lang -eq 1){
         $Cli = "english"
@@ -211,9 +207,9 @@ function Options(){
         $Mode = "FRANCAIS"
     }
     Write-Host "`nCLI-LANGUAGE:$Mode"
-    $DateFormat = Read-Host -Prompt "`nSELECT YOUR DATE-FORMAT`n(1)EUROPE(DD/MM/YYYY)`n(2)AMERICA'USA'(MM/DD/YYYY)`n(3)ASIA(YYYY/MM/DD)`n`n[#MR.HOLMES#]-->"
+    $DateFormat = Read-Host -Prompt "`nSELECT YOUR DATE-FORMAT`n(1)EUROPE(DD/MM/YYYY)`n(2)AMERICA'USA'(MM/DD/YYYY)`n(3)ASIA(YYYY/MM/DD)`n`n[#Team Mp#]-->"
     while($DateFormat -eq ""){
-        $DateFormat = Read-Host -Prompt "`nSELECT YOUR DATE-FORMAT`n(1)EUROPE(DD/MM/YYYY)`n(2)AMERICA'USA'(MM/DD/YYYY)`n(3)ASIA(YYYY/MM/DD)`n`n[#MR.HOLMES#]-->"
+        $DateFormat = Read-Host -Prompt "`nSELECT YOUR DATE-FORMAT`n(1)EUROPE(DD/MM/YYYY)`n(2)AMERICA'USA'(MM/DD/YYYY)`n(3)ASIA(YYYY/MM/DD)`n`n[#Team Mp#]-->"
     }
     if($DateFormat -eq 1){
         $Date = "eu"
@@ -313,10 +309,10 @@ function AutoInstaller(){
 
 function installer(){
     Write-Host "`nWELCOME TO THE INSTALLATION MANAGER WOULD YOU LIKE TO BEGIN(1)YES(2)NO?" -ForegroundColor Green
-    $DECISION = Read-Host -Prompt "`n[#MR.HOLMES#]-->"
+    $DECISION = Read-Host -Prompt "`n[#Team Mp#]-->"
     if ( $DECISION -eq 1 ){
         Write-Host "`nWOULD YOU LIKE TO SET(1)MANUAL-INSTALLATION(2)AUTO-INSTALLATION?" -ForegroundColor Green
-        $DECISION2 = Read-Host -Prompt "`n[#MR.HOLMES#]-->"
+        $DECISION2 = Read-Host -Prompt "`n[#Team Mp#]-->"
         if ( $DECISION2 -eq 1 ){
             Packet_Installer;
             Mail_Options;
