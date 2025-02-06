@@ -1,6 +1,6 @@
 [GENERAL-DORKS]:
 ----------------------------------------------------------------------------------------------------------------------
-| https://www.google.com/search?q=site:(www.%22{}%22)
+| https://www.google.com/search?q=site:{}
 | https://www.google.com/search?q=site:{}+filetype:txt
 | https://www.google.com/search?q=site:{} filetype:pdf
 | https://www.google.com/search?q=site:{}+filetype:log
@@ -16,6 +16,6 @@
 | https://www.google.com/search?q=site:{}+intext:admin+OR+Admin
 | https://www.google.com/search?q=site:{}+intext:emails+OR+Emails+OR+EMAILS
 | https://www.google.com/search?q=site:{}+intitle:admin+OR+Admin
-| https://www.google.com/search?q=intext:(%22{}%22+OR+%22{}%22)
-| https://www.google.com/search?q=inurl:(%22{}%22+OR+%22{}%22)
+| https://www.google.com/search?q=intext:{}+OR+{}
+| https://www.google.com/search?q=inurl:{}+OR+{}
 ----------------------------------------------------------------------------------------------------------------------

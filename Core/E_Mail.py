@@ -57,16 +57,17 @@ class Mail_search:
         print(Font.Color.GREEN + "\n[+]" + Font.Color.WHITE +
               Language.Translation.Translate_Language(filename, "Website", "Default", "Whois").format(username))
         sleep(2)
-        Key = Api.Check.WhoIs()
+        Key = "at_KciacAgLj56pzwsJbVH7k35sZkFr6"
         Key
         RecList = []
         if Key == "None":
-            print(Font.Color.RED + "[!]" + Font.Color.WHITE + "API-KEY NOT FOUND")
+            print(Font.Color.RED + "[!]" + Font.Color.WHITE + "")
         else:
             try:
                 print(Font.Color.GREEN + "[+]" +
                       Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Website", "Parameters", "KeyFound"))
-                Key2 = str(Key)
+                # Key2 = str(Key)
+                Key2="at_KciacAgLj56pzwsJbVH7k35sZkFr6"
                 source = "https://emailverification.whoisxmlapi.com/api/v2?apiKey={}&emailAddress={}".format(
                     Key2, username)
                 access = urllib.request.urlopen(source)
@@ -193,11 +194,11 @@ class Mail_search:
         f.write("SCANNING EXECUTED ON:\n" + Date + "\n")
         f.close()
         mail.Validator.Mail(username, report)
-        Mail_search.Lookup(username, report)
+        # Mail_search.Lookup(username, report)
         lookup = int(input(Font.Color.BLUE + "\n[?]" + Font.Color.WHITE + "WOULD YOU LIKE TO CHECK IF THIS EMAIL IS USED ON SOME SOCIAL MEDIA?(1)YES(2)NO\n\n" + Font.Color.GREEN + "[#MP#]" + Font.Color.WHITE + "-->"))
-        if lookup == 1:
-            Lookup.List.Main(report,username)
-        Mail_search.searcher(username, report, Mode)
+        # if lookup == 1:
+        #     Lookup.List.Main(report,username)
+        # Mail_search.searcher(username, report, Mode)
         choice = int(input(
             Font.Color.BLUE + "\n[?]" + Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Default", "Dorks", "None") + Font.Color.GREEN + "[#MP#]" + Font.Color.WHITE + "-->"))
         if choice == 1:
@@ -213,12 +214,12 @@ class Mail_search:
         f.close()
         print(Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Default", "Report", "None") +
               report)
-        Notification.Notifier.Start(Mode)
-        Creds.Sender.mail(report, username)
+        # Notification.Notifier.Start(Mode)
+        # Creds.Sender.mail(report, username)
         choice = int(input(
             Font.Color.BLUE + "\n[?]" + Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Transfer", "Question", "None") + Font.Color.GREEN + "[#MP#]" + Font.Color.WHITE + "-->"))
         if choice == 1:
             FileTransfer.Transfer.File(report, username, ".txt")
-        Encoding.Encoder.Encode(report)
-        inp = input(Language.Translation.Translate_Language(
-            filename, "Default", "Continue", "None"))
+        # Encoding.Encoder.Encode(report)
+        # inp = input(Language.Translation.Translate_Language(
+        #     filename, "Default", "Continue", "None"))

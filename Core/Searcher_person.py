@@ -169,41 +169,41 @@ class info:
                 print(Font.Color.YELLOW + "[v]" + Font.Color.WHITE + Locations)
                 f.write(Locations+"\n")
             f.close()
-        Recaps = int(input(Font.Color.BLUE + "\n[?]" + Font.Color.WHITE + Language.Translation.Translate_Language(
-            filename, "Default", "Hypo", "None") + Font.Color.GREEN + "[#MP#]" + Font.Color.WHITE + "-->"))
-        if Recaps == 1:
-            if len(InstagramParams):
-                print(Font.Color.GREEN +
-                      "\n[+]" + Font.Color.WHITE + "INSTAGRAM HYPOTHESIS")
-                Recap.Stats.Hypotesys(InstagramParams, username, Recap1)
-            if len(TwitterParams):
-                print(Font.Color.GREEN + "\n[+]" +
-                      Font.Color.WHITE + "TWITTER HYPOTHESIS")
-                Recap.Stats.Hypotesys(TwitterParams, username, Recap1)
-            Recap.Stats.Places(PostLocations,Recap1,InstagramParams,username,MostTags)
-            if len(MostTags):
-                print(Font.Color.GREEN +
-                  "\n[+]" + Font.Color.WHITE + "GETTING POSSIBLE HOBBIES/INTERESTS:")
-                f = open(Recap1, "a")
-                f.write("\nGETTING POSSIBLE HOBBIES/INTERESTS:\n")
-                sleep(3)
-                for PossibleHobby in MostTags:
-                    print(Font.Color.YELLOW + "[v]" + Font.Color.WHITE + PossibleHobby)
-                    f.write(PossibleHobby+"\n")
-            Encoding.Encoder.Encode(Recap1)
+        # Recaps = int(input(Font.Color.BLUE + "\n[?]" + Font.Color.WHITE + Language.Translation.Translate_Language(
+        #     filename, "Default", "Hypo", "None") + Font.Color.GREEN + "[#MP#]" + Font.Color.WHITE + "-->"))
+        # if Recaps == 1:
+        #     if len(InstagramParams):
+        #         print(Font.Color.GREEN +
+        #               "\n[+]" + Font.Color.WHITE + "INSTAGRAM HYPOTHESIS")
+        #         Recap.Stats.Hypotesys(InstagramParams, username, Recap1)
+        #     if len(TwitterParams):
+        #         print(Font.Color.GREEN + "\n[+]" +
+        #               Font.Color.WHITE + "TWITTER HYPOTHESIS")
+        #         Recap.Stats.Hypotesys(TwitterParams, username, Recap1)
+        #     Recap.Stats.Places(PostLocations,Recap1,InstagramParams,username,MostTags)
+        #     if len(MostTags):
+        #         print(Font.Color.GREEN +
+        #           "\n[+]" + Font.Color.WHITE + "GETTING POSSIBLE HOBBIES/INTERESTS:")
+        #         f = open(Recap1, "a")
+        #         f.write("\nGETTING POSSIBLE HOBBIES/INTERESTS:\n")
+        #         sleep(3)
+        #         for PossibleHobby in MostTags:
+        #             print(Font.Color.YELLOW + "[v]" + Font.Color.WHITE + PossibleHobby)
+        #             f.write(PossibleHobby+"\n")
+        #     Encoding.Encoder.Encode(Recap1)
         choice = int(input(
             Font.Color.BLUE + "\n[?]" + Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Default", "Dorks", "None") + Font.Color.GREEN + "[#MP#]" + Font.Color.WHITE + "-->"))
         if choice == 1:
             info.Google_dork(username)
             info.Yandex_dork(username)
-        Notification.Notifier.Start(Mode)
-        Creds.Sender.mail(report, username)
+        # Notification.Notifier.Start(Mode)
+        # Creds.Sender.mail(report, username)
         choice = int(input(
             Font.Color.BLUE + "\n[?]" + Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Transfer", "Question", "None") + Font.Color.GREEN + "[#MP#]" + Font.Color.WHITE + "-->"))
         if choice == 1:
             FileTransfer.Transfer.File(report, username, ".txt")
-        Encoding.Encoder.Encode(report)
-        print(Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Default", "Report", "None") +
-              report)
-        inp = input(Language.Translation.Translate_Language(
-            filename, "Default", "Continue", "None"))
+        # Encoding.Encoder.Encode(report)
+        # print(Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Default", "Report", "None") +
+        #       report)
+        # inp = input(Language.Translation.Translate_Language(
+        #     filename, "Default", "Continue", "None"))

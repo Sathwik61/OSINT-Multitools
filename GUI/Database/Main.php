@@ -79,11 +79,11 @@ License: GNU General Public License v3.0-->
         <div class = "Footer" id = "Footer" name = "Footer">
             <p id = "Const">MY-CONTACTS</p>
             <div class = "Board">
-                <a href = "https://instagram.com/lucks_022" target = "blank"><img src = "../Icon/instagram.png" id = "Exc" abbr title = "Instagram"></a>
-                <a href = "mailto:lukege287@gmail.com" target = "blank"><img src = "../Icon/Email.png" abbr title = "Email" ></a>
-                <a href = "https://github.com/Lucksi" target = "blank"><img src = "../Icon/Git-hub.png" abbr title = "GitHub"></a>
-                <a href = "https://linkedin.com/in/lucksi" target = "blank"><img src = "../Icon/linkedin.png" abbr title = "Linkedin"></a>
-                <a href = "https://twitter.com/Lucksi_22" target = "blank"><img src = "../Icon/Twitter.png" abbr title = "Twitter"></a>
+                <a href = "https://instagram.com/vaibhavprocastix" target = "blank"><img src = "../Icon/instagram.png" id = "Exc" abbr title = "Instagram"></a>
+                <a href = "mailto:saathwik.texh@gmail.com" target = "blank"><img src = "../Icon/Email.png" abbr title = "Email" ></a>
+                <a href = "https://github.com/Sathwik61" target = "blank"><img src = "../Icon/Git-hub.png" abbr title = "GitHub"></a>
+                <a href = "https://linkedin.com/in/sathwik_acharya" target = "blank"><img src = "../Icon/linkedin.png" abbr title = "Linkedin"></a>
+                <!-- <a href = "https://twitter.com/" target = "blank"><img src = "../Icon/Twitter.png" abbr title = "Twitter"></a> -->
             </div>
         </div>
     </body>

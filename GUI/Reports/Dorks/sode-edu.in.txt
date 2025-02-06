@@ -1,11 +1,11 @@
 SCANNING EXECUTED ON:
-Date: 19/12/2024 10:27:18
+Date: 06/02/2025 10:20:30
 
 GOOGLE-DORKS:
 
 [GENERAL-DORKS]:
 ----------------------------------------------------------------------------------------------------------------------
-| https://www.google.com/search?q=site:(www.%22sode-edu.in%22)+-"intitle:article"
+| https://www.google.com/search?q=site:sode-edu.in
 | https://www.google.com/search?q=site:sode-edu.in+filetype:txt
 | https://www.google.com/search?q=site:sode-edu.in filetype:pdf
 | https://www.google.com/search?q=site:sode-edu.in+filetype:log
@@ -21,27 +21,27 @@ GOOGLE-DORKS:
 | https://www.google.com/search?q=site:sode-edu.in+intext:admin+OR+Admin
 | https://www.google.com/search?q=site:sode-edu.in+intext:emails+OR+Emails+OR+EMAILS
 | https://www.google.com/search?q=site:sode-edu.in+intitle:admin+OR+Admin
-| https://www.google.com/search?q=intext:(%22sode-edu.in%22+OR+%22sode-edu.in%22)+-"intitle:article"
-| https://www.google.com/search?q=inurl:(%22sode-edu.in%22+OR+%22sode-edu.in%22)+-"intitle:article"
+| https://www.google.com/search?q=intext:sode-edu.in+OR+sode-edu.in
+| https://www.google.com/search?q=inurl:sode-edu.in+OR+sode-edu.in
 ----------------------------------------------------------------------------------------------------------------------
 
 YANDEX-DORKS:
 
 [GENERAL-DORKS]:
 ----------------------------------------------------------------------------------------------------------------------
-| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"
-| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"+mime:txt
-| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"+mime:pdf
-| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"+mime:log
-| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"+mime:doc
-| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"+mime:docx
-| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"+mime:sqlite
-| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"+mime:yaml
-| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"+mime:json
-| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"+mime:xls
-| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"+mime:xlsx
-| https://yandex.com/search/?text=site:("sode-edu.in")+-"intitle:article"+mime:csv
-| https://yandex.com/search/?text=inurl:("sode-edu.in")+-"intitle:article"
+| https://yandex.com/search/?text=site:("sode-edu.in")
+| https://yandex.com/search/?text=site:("sode-edu.in")+mime:txt
+| https://yandex.com/search/?text=site:("sode-edu.in")+mime:pdf
+| https://yandex.com/search/?text=site:("sode-edu.in")+mime:log
+| https://yandex.com/search/?text=site:("sode-edu.in")+mime:doc
+| https://yandex.com/search/?text=site:("sode-edu.in")+mime:docx
+| https://yandex.com/search/?text=site:("sode-edu.in")+mime:sqlite
+| https://yandex.com/search/?text=site:("sode-edu.in")+mime:yaml
+| https://yandex.com/search/?text=site:("sode-edu.in")+mime:json
+| https://yandex.com/search/?text=site:("sode-edu.in")+mime:xls
+| https://yandex.com/search/?text=site:("sode-edu.in")+mime:xlsx
+| https://yandex.com/search/?text=site:("sode-edu.in")+mime:csv
+| https://yandex.com/search/?text=inurl:("sode-edu.in")
 ----------------------------------------------------------------------------------------------------------------------
 
 SCANNING EXECUTED WITH Team MP

@@ -1,5 +1,5 @@
 SCANNING EXECUTED ON:
-Date: 19/12/2024 09:55:36
+Date: 06/02/2025 10:17:39
 IP: 50.87.253.53
 NATION: United States
 NATION-CODE: US
@@ -23,7 +23,7 @@ WEBSITE DATA:
 # If you see inaccuracies in the results, please report at
 # https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
 #
-# Copyright 1997-2024, American Registry for Internet Numbers, Ltd.
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
 #
 
 
@@ -40,6 +40,7 @@ Updated:        2012-11-14
 Ref:            https://rdap.arin.net/registry/ip/50.87.0.0
 
 
+
 OrgName:        Unified Layer
 OrgId:          BLUEH-2
 Address:        1958 South 950 East
@@ -53,11 +54,11 @@ Ref:            https://rdap.arin.net/registry/entity/BLUEH-2
 
 ReferralServer:  rwhois://rwhois.unifiedlayer.com:4321
 
-OrgNOCHandle: ENO74-ARIN
-OrgNOCName:   EIG Network Operations
-OrgNOCPhone:  +1-877-659-6181 
-OrgNOCEmail:  eig-net-team@endurance.com
-OrgNOCRef:    https://rdap.arin.net/registry/entity/ENO74-ARIN
+OrgTechHandle: ENO74-ARIN
+OrgTechName:   EIG Network Operations
+OrgTechPhone:  +1-877-659-6181 
+OrgTechEmail:  eig-noc@endurance.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ENO74-ARIN
 
 OrgAbuseHandle: NOC2320-ARIN
 OrgAbuseName:   Network Operations Center
@@ -65,11 +66,11 @@ OrgAbusePhone:  +1-801-765-9400
 OrgAbuseEmail:  abuse@bluehost.com
 OrgAbuseRef:    https://rdap.arin.net/registry/entity/NOC2320-ARIN
 
-OrgTechHandle: ENO74-ARIN
-OrgTechName:   EIG Network Operations
-OrgTechPhone:  +1-877-659-6181 
-OrgTechEmail:  eig-net-team@endurance.com
-OrgTechRef:    https://rdap.arin.net/registry/entity/ENO74-ARIN
+OrgNOCHandle: ENO74-ARIN
+OrgNOCName:   EIG Network Operations
+OrgNOCPhone:  +1-877-659-6181 
+OrgNOCEmail:  eig-noc@endurance.com
+OrgNOCRef:    https://rdap.arin.net/registry/entity/ENO74-ARIN
 
 
 #
@@ -79,7 +80,7 @@ OrgTechRef:    https://rdap.arin.net/registry/entity/ENO74-ARIN
 # If you see inaccuracies in the results, please report at
 # https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
 #
-# Copyright 1997-2024, American Registry for Internet Numbers, Ltd.
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
 #
 
 
@@ -101,23 +102,3 @@ network:Updated: 20121119
 network:Updated-By: netops@unifiedlayer.com
 
 %ok
-
-
-REPUTATION RATING: 98.47
-TEST-NAME: SSL vulnerabilities
-TEST-CODE: 88
-TEST-NAME: SSL vulnerabilities
-WARNING LISTS FOR TEST: SSL vulnerabilities
-DESCRIPTION: HTTP Strict Transport Security not set
-CODE: 6015
-DESCRIPTION: TLSA record not configured or configured wrong
-CODE: 6019
-DESCRIPTION: OCSP stapling not configured
-CODE: 6006
-
-MALICIOUS/FAKE LINK FOUND ON:
-GOOD LOOKS LIKE THIS WEBSITE/DOMAIN IS SAFE :-)
-FOR MAJOR INFORMATION CONSULT THESE LINKS...
-https://www.scamadviser.com/check-website/50.87.253.53
-https://www.ssltrust.com.au/ssl-tools/website-security-check?domain=50.87.253.53
-https://www.islegitsite.com/check/50.87.253.53

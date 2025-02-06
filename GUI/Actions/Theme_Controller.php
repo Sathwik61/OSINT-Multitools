@@ -122,11 +122,7 @@
                 <p id = 'Const'>CREATE-USER</p>
                 <a href = 'New_User.php'><button class = But>Create</button></a>
             </div>
-            <div id = 'Phone'>
-                <img class = 'Mod' src = '../Icon/$color/Graph.png'>
-                <p id = 'Const'>Graph</p>
-                <a href = 'Schema.php'><button class = But>Open</button></a>
-            </div>
+           
             <div id = 'Ports'>
                 <img class = 'Mod' src = '../Icon/$color/Marker.png'>
                 <p id = 'Const'>Map</p>
@@ -195,10 +191,7 @@
                 <a href = 'People.php'><button class = But>Search</button></a>
             </div>
             <div id = 'Website'>
-                <img class = 'Mod' src = '../Icon/Base/Author.png'>
-                <p id = 'Const'>Author</p>
-                <a id = 'change2'><button class = But>Show</button></a>
-            </div>";
+                </div>";
         }   
     }
     
@@ -247,5 +240,9 @@
         }
         echo "</div></center>";   
     }
-   
+    // <div id = 'Phone'>
+    //             <img class = 'Mod' src = '../Icon/$color/Graph.png'>
+    //             <p id = 'Const'>Graph</p>
+    //             <a href = 'Schema.php'><button class = But>Open</button></a>
+    //         </div>
 ?>

@@ -1,0 +1,40 @@
+GOOGLE-DORKS:
+
+[GENERAL-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://www.google.com/search?q=site:sode-edu.in+filetype:txt
+| https://www.google.com/search?q=site:sode-edu.in+filetype:pdf
+| https://www.google.com/search?q=site:sode-edu.in+filetype:log
+| https://www.google.com/search?q=site:sode-edu.in+filetype:doc
+| https://www.google.com/search?q=site:sode-edu.in+filetype:docx
+| https://www.google.com/search?q=site:sode-edu.in+filetype:sqlite
+| https://www.google.com/search?q=site:sode-edu.in+filetype:yaml
+| https://www.google.com/search?q=site:sode-edu.in+filetype:json
+| https://www.google.com/search?q=site:sode-edu.in+filetype:xls
+| https://www.google.com/search?q=site:sode-edu.in+filetype:xlsx
+| https://www.google.com/search?q=site:sode-edu.in+filetype:csv
+| https://www.google.com/search?q=site:sode-edu.in+filetype:md
+| https://www.google.com/search?q=site:sode-edu.in+intext:admin+OR+Admin
+| https://www.google.com/search?q=site:sode-edu.in+intext:emails+OR+Emails+OR+EMAILS
+| https://www.google.com/search?q=site:sode-edu.in+intitle:admin+OR+Admin
+| https://www.google.com/search?q=intext:(www.sode-edu.in+OR+sode-edu.in)
+| https://www.google.com/search?q=inurl:(www.sode-edu.in+OR+sode-edu.in)
+----------------------------------------------------------------------------------------------------------------------
+YANDEX-DORKS:
+
+[GENERAL-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://yandex.com/search/?text=site:sode-edu.in
+| https://yandex.com/search/?text=site:sode-edu.in+mime:txt
+| https://yandex.com/search/?text=site:sode-edu.in+mime:pdf
+| https://yandex.com/search/?text=site:sode-edu.in+mime:log
+| https://yandex.com/search/?text=site:sode-edu.in+mime:doc
+| https://yandex.com/search/?text=site:sode-edu.in+mime:docx
+| https://yandex.com/search/?text=site:sode-edu.in+mime:sqlite
+| https://yandex.com/search/?text=site:sode-edu.in+mime:yaml
+| https://yandex.com/search/?text=site:sode-edu.in+mime:json
+| https://yandex.com/search/?text=site:sode-edu.in+mime:xls
+| https://yandex.com/search/?text=site:sode-edu.in+mime:xlsx
+| https://yandex.com/search/?text=site:sode-edu.in+mime:csv
+| https://yandex.com/search/?text=inurl:sode-edu.in
+----------------------------------------------------------------------------------------------------------------------

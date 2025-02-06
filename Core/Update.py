@@ -45,7 +45,7 @@ class Downloader:
             os.system("rename Mr.Holmes Mr.Holmes_Old 2>NUL >NUL")
         else:
             os.system("mv Mr.Holmes Mr.Holmes_Old &>/dev/null")
-        os.system("git clone https://github.com/Lucksi/Mr.Holmes")
+        os.system("git clone https://github.com/Sathwik61/OSINT-Multitools")
         choice = int(input(Font.Color.BLUE + "\n[+]" + Font.Color.WHITE +
                      Language.Translation.Translate_Language(filename, "Update", "Choice", "None")))
         if choice == 1:

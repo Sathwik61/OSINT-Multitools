@@ -777,6 +777,7 @@ class Web:
                 if choice == 1:
                     Web.Reputation(username, report)
                 else:
+                    # choice=0
                     choice = int(input(
                         Font.Color.BLUE + "\n[?]" + Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Website", "Questions", "Soc") + Font.Color.GREEN + "[#MP#]" + Font.Color.WHITE + "-->"))
                     if choice == 1:

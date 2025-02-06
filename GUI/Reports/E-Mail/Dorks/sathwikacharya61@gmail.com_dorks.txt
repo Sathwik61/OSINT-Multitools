@@ -1,0 +1,74 @@
+GOOGLE-DORKS:
+
+[GENERAL-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://www.google.com/search?q=inurl:%22sathwikacharya61@gmail.com%22
+| https://www.google.com/search?q=intext:%22sathwikacharya61@gmail.com%22
+| https://www.google.com/search?q=intext:sathwikacharya61@gmail.comfiletype:txt
+| https://www.google.com/search?q=intext:sathwikacharya61@gmail.comfiletype:csv
+| https://www.google.com/search?q=intext:sathwikacharya61@gmail.comfiletype:pdf
+| https://www.google.com/search?q=intext:sathwikacharya61@gmail.comfiletype:doc
+| https://www.google.com/search?q=intext:sathwikacharya61@gmail.comfiletype:docx
+| https://www.google.com/search?q=intext:sathwikacharya61@gmail.comfiletype:log
+| https://www.google.com/search?q=intext:sathwikacharya61@gmail.comfiletype:xls
+| https://www.google.com/search?q=intext:sathwikacharya61@gmail.comfiletype:xlsx
+----------------------------------------------------------------------------------------------------------------------
+[PASSWORD-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://www.google.com/search?q=intext:%22sathwikacharya61@gmail.com%22(Password+OR+password+OR+PASSWORD)
+| https://www.google.com/search?q=intext:%22sathwikacharya61@gmail.com%22(Password+OR+password+OR+PASSWORD)filetype:txt
+| https://www.google.com/search?q=intext:%22sathwikacharya61@gmail.com%22(Password+OR+password+OR+PASSWORD)filetype:csv
+| https://www.google.com/search?q=intext:%22sathwikacharya61@gmail.com%22(Password+OR+password+OR+PASSWORD)filetype:pdf
+| https://www.google.com/search?q=intext:%22sathwikacharya61@gmail.com%22(Password+OR+password+OR+PASSWORD)filetype:doc
+| https://www.google.com/search?q=intext:%22sathwikacharya61@gmail.com%22(Password+OR+password+OR+PASSWORD)filetype:docx
+| https://www.google.com/search?q=intext:%22sathwikacharya61@gmail.com%22(Password+OR+password+OR+PASSWORD)filetype:log
+| https://www.google.com/search?q=intext:%22sathwikacharya61@gmail.com%22(Password+OR+password+OR+PASSWORD)filetype:xls
+| https://www.google.com/search?q=intext:%22sathwikacharya61@gmail.com%22(Password+OR+password+OR+PASSWORD)filetype:xlsx
+----------------------------------------------------------------------------------------------------------------------
+[INTITLE-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://www.google.com/search?q=intitle:sathwikacharya61@gmail.comfiletype:txt
+| https://www.google.com/search?q=intitle:sathwikacharya61@gmail.comfiletype:csv
+| https://www.google.com/search?q=intitle:sathwikacharya61@gmail.comfiletype:pdf
+| https://www.google.com/search?q=intitle:sathwikacharya61@gmail.comfiletype:doc
+| https://www.google.com/search?q=intitle:sathwikacharya61@gmail.comfiletype:docx
+| https://www.google.com/search?q=intitle:sathwikacharya61@gmail.comfiletype:log
+| https://www.google.com/search?q=intitle:sathwikacharya61@gmail.comfiletype:xls
+| https://www.google.com/search?q=intitle:sathwikacharya61@gmail.comfiletype:xlsx
+| https://www.google.com/search?q=inurl:%22sathwikacharya61@gmail.com%22
+----------------------------------------------------------------------------------------------------------------------
+YANDEX-DORKS:
+
+[GENERAL-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://yandex.com/search/?text=sathwikacharya61@gmail.commime:txt
+| https://yandex.com/search/?text=sathwikacharya61@gmail.commime:pdf
+| https://yandex.com/search/?text=sathwikacharya61@gmail.commime:csv
+| https://yandex.com/search/?text=sathwikacharya61@gmail.commime:doc
+| https://yandex.com/search/?text=sathwikacharya61@gmail.commime:docx
+| https://yandex.com/search/?text=sathwikacharya61@gmail.commime:log
+----------------------------------------------------------------------------------------------------------------------
+[PASSWORD-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://yandex.com/search/?text=sathwikacharya61@gmail.com&&(!Password|!password|!PASSWORD)&& mime:txt
+| https://yandex.com/search/?text=sathwikacharya61@gmail.com&&(!Password|!password|!PASSWORD)&& mime:pdf
+| https://yandex.com/search/?text=sathwikacharya61@gmail.com&&(!Password|!password|!PASSWORD)&& mime:csv
+| https://yandex.com/search/?text=sathwikacharya61@gmail.com&&(!Password|!password|!PASSWORD)&& mime:doc
+| https://yandex.com/search/?text=sathwikacharya61@gmail.com&&(!Password|!password|!PASSWORD)&& mime:docx
+| https://yandex.com/search/?text=sathwikacharya61@gmail.com&&(!Password|!password|!PASSWORD)&&mime:log
+| https://yandex.com/search/?text=sathwikacharya61@gmail.com&&(!Password|!password|!PASSWORD)&& mime:xls
+| https://yandex.com/search/?text=sathwikacharya61@gmail.com&&(!Password|!password|!PASSWORD)&& mime:xlsx
+----------------------------------------------------------------------------------------------------------------------
+[INTITLE-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://yandex.com/search/?text=title:sathwikacharya61@gmail.com
+| https://yandex.com/search/?text=title:sathwikacharya61@gmail.com&&mime:txt
+| https://yandex.com/search/?text=title:sathwikacharya61@gmail.com&&mime:pdf
+| https://yandex.com/search/?text=title:sathwikacharya61@gmail.com&&mime:csv
+| https://yandex.com/search/?text=title:sathwikacharya61@gmail.com&&mime:doc
+| https://yandex.com/search/?text=title:sathwikacharya61@gmail.com&&mime:docx
+| https://yandex.com/search/?text=title:sathwikacharya61@gmail.com&&mime:xls
+| https://yandex.com/search/?text=title:sathwikacharya61@gmail.com&&mime:xlsx
+| https://yandex.com/search/?text=title:sathwikacharya61@gmail.com&&mime:log
+| https://yandex.com/search/?text=inurl:sathwikacharya61@gmail.com
+----------------------------------------------------------------------------------------------------------------------

@@ -169,7 +169,7 @@ class Main:
                         username = str(input(Font.Color.BLUE + "\n[+]" + Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Main", "Param", "None") +
                                        Font.Color.GREEN + "\n\n[#MP#]" + Font.Color.WHITE + "-->"))
                     Dork.List.Main(username, Mode)
-                elif sce == 10:
+                elif sce == 15:
                     username = str(input(Font.Color.BLUE + "\n[+]" + Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Main", "Param", "None") +
                                        Font.Color.GREEN + "\n\n[#MP#]" + Font.Color.WHITE + "-->"))
                     while username == "":
@@ -200,7 +200,7 @@ class Main:
                     Transfer.Menu.Main(username, Mode)
                 elif sce == 14:
                     Session.Options.View()
-                elif sce == 15:
+                elif sce == 10:
                     print(Language.Translation.Translate_Language(
                         filename, "Main", "Exit", "None"))
                     exit()
