@@ -1,5 +1,5 @@
 SCANNING EXECUTED ON:
-Date: 06/02/2025 10:20:30
+Date: 07/02/2025 09:04:18
 
 GOOGLE-DORKS:
 
@@ -29,19 +29,19 @@ YANDEX-DORKS:
 
 [GENERAL-DORKS]:
 ----------------------------------------------------------------------------------------------------------------------
-| https://yandex.com/search/?text=site:("sode-edu.in")
-| https://yandex.com/search/?text=site:("sode-edu.in")+mime:txt
-| https://yandex.com/search/?text=site:("sode-edu.in")+mime:pdf
-| https://yandex.com/search/?text=site:("sode-edu.in")+mime:log
-| https://yandex.com/search/?text=site:("sode-edu.in")+mime:doc
-| https://yandex.com/search/?text=site:("sode-edu.in")+mime:docx
-| https://yandex.com/search/?text=site:("sode-edu.in")+mime:sqlite
-| https://yandex.com/search/?text=site:("sode-edu.in")+mime:yaml
-| https://yandex.com/search/?text=site:("sode-edu.in")+mime:json
-| https://yandex.com/search/?text=site:("sode-edu.in")+mime:xls
-| https://yandex.com/search/?text=site:("sode-edu.in")+mime:xlsx
-| https://yandex.com/search/?text=site:("sode-edu.in")+mime:csv
-| https://yandex.com/search/?text=inurl:("sode-edu.in")
+| https://yandex.com/search/?text=site:sode-edu.in
+| https://yandex.com/search/?text=site:sode-edu.in+mime:txt
+| https://yandex.com/search/?text=site:sode-edu.in+mime:pdf
+| https://yandex.com/search/?text=site:sode-edu.in+mime:log
+| https://yandex.com/search/?text=site:sode-edu.in+mime:doc
+| https://yandex.com/search/?text=site:sode-edu.in+mime:docx
+| https://yandex.com/search/?text=site:sode-edu.in+mime:sqlite
+| https://yandex.com/search/?text=site:sode-edu.in+mime:yaml
+| https://yandex.com/search/?text=site:sode-edu.in+mime:json
+| https://yandex.com/search/?text=site:sode-edu.in+mime:xls
+| https://yandex.com/search/?text=site:sode-edu.in+mime:xlsx
+| https://yandex.com/search/?text=site:sode-edu.in+mime:csv
+| https://yandex.com/search/?text=inurl:sode-edu.in
 ----------------------------------------------------------------------------------------------------------------------
 
 SCANNING EXECUTED WITH Team MP

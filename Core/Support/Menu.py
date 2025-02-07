@@ -176,21 +176,21 @@ class Main:
                         username = str(input(Font.Color.BLUE + "\n[+]" + Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Main", "Param", "None") +
                                        Font.Color.GREEN + "\n\n[#MP#]" + Font.Color.WHITE + "-->"))
                     Searcher_person.info.Search(username, Mode)
-                elif sce == 11:
+                elif sce == 11000:
                     username = str(input(Font.Color.BLUE + "\n[+]" + Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Main", "Param", "None") +
                                        Font.Color.GREEN + "\n\n[#MP#]" + Font.Color.WHITE + "-->"))
                     while username == "":
                         username = str(input(Font.Color.BLUE + "\n[+]" + Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Main", "Param", "None") +
                                        Font.Color.GREEN + "\n\n[#MP#]" + Font.Color.WHITE + "-->"))
                     Decoder.Menu.Main(username, Mode)
-                elif sce == 12:
+                elif sce == 12000:
                     username = str(input(Font.Color.BLUE + "\n[+]" + Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Main", "Param", "None") +
                                        Font.Color.GREEN + "\n\n[#MP#]" + Font.Color.WHITE + "-->"))
                     while username == "":
                         username = str(input(Font.Color.BLUE + "\n[+]" + Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Main", "Param", "None") +
                                        Font.Color.GREEN + "\n\n[#MP#]" + Font.Color.WHITE + "-->"))
                     Pdf.Menu.Main(username, Mode)
-                elif sce == 13:
+                elif sce == 13000:
                     username = str(input(Font.Color.BLUE + "\n[+]" + Font.Color.WHITE + Language.Translation.Translate_Language(filename, "Main", "Param", "None") +
                                        Font.Color.GREEN + "\n\n[#MP#]" + Font.Color.WHITE + "-->"))
                     while username == "":
@@ -198,7 +198,7 @@ class Main:
                                        Font.Color.GREEN + "\n\n[#MP#]" + Font.Color.WHITE + "-->"))
                     print(username)
                     Transfer.Menu.Main(username, Mode)
-                elif sce == 14:
+                elif sce == 14000:
                     Session.Options.View()
                 elif sce == 10:
                     print(Language.Translation.Translate_Language(

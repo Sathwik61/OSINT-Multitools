@@ -1,5 +1,5 @@
 SCANNING EXECUTED ON:
-Date: 06/02/2025 17:05:47
+Date: 07/02/2025 09:13:46
 IP: 50.87.253.53
 NATION: United States
 NATION-CODE: US
@@ -14,42 +14,70 @@ LAT: 40.2069
 LONG: -111.642
 ZIP/POSTAL-CODE: 84606
 
-MALICIOUS/FAKE LINK FOUND ON:
-GOOD LOOKS LIKE THIS WEBSITE/DOMAIN IS SAFE :-)
-FOR MAJOR INFORMATION CONSULT THESE LINKS...
-https://www.scamadviser.com/check-website/sode-edu.in
-https://www.ssltrust.com.au/ssl-tools/website-security-check?domain=sode-edu.in
-https://www.islegitsite.com/check/sode-edu.in
+WEBSITE DATA:
+Domain Name: sode-edu.in
+Registry Domain ID: D4457677-IN
+Registrar WHOIS Server:
+Registrar URL: https://publicdomainregistry.com/
+Updated Date: 2024-09-20T07:11:05Z
+Creation Date: 2010-09-15T04:52:14Z
+Registry Expiry Date: 2025-09-15T04:52:14Z
+Registrar: Endurance Digital Domain Technology Private Limited
+Registrar IANA ID: 801217
+Registrar Abuse Contact Email: abuse@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Shri Madhwa Vadiraja Institute of Technology and Management
+Registrant Street: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Karnataka
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: IN
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please contact the Registrar listed above
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please contact the Registrar listed above
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please contact the Registrar listed above
+Name Server: ns2.bluehost.com
+Name Server: ns1.bluehost.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-02-07T03:46:12Z <<<
 
+For more information on Whois status codes, please visit https://icann.org/epp
 
-TRACEROUTE SEQUENCE:
-traceroute to sode-edu.in (50.87.253.53), 64 hops max
-  1   192.168.249.6  0.949ms  0.671ms  0.627ms 
-  2   255.0.0.0  28.308ms  16.736ms  20.539ms 
-  3   255.0.0.2  14.990ms  18.658ms  20.659ms 
-  4   255.0.0.3  15.071ms  14.891ms  13.280ms 
-  5   192.168.227.98  18.135ms  19.488ms  26.661ms 
-  6   192.168.174.158  19.606ms  19.947ms  16.443ms 
-  7   *  *  * 
-  8   *  *  * 
-  9   *  *  * 
- 10   *  *  * 
- 11   *  *  * 
- 12   149.14.125.1  239.773ms  199.955ms  200.038ms 
- 13   149.14.125.1  199.866ms  200.135ms  200.238ms 
- 14   62.115.11.140  299.819ms  199.644ms  205.890ms 
- 15   62.115.124.56  170.205ms  197.381ms  180.363ms 
- 16   62.115.124.56  173.814ms  170.155ms  175.428ms 
- 17   62.115.124.56  164.701ms  171.724ms  162.572ms 
- 18   *  62.115.139.246  277.108ms  * 
- 19   *  *  62.115.132.135  290.103ms 
- 20   62.115.137.114  300.401ms  299.964ms  300.047ms 
- 21   62.115.143.165  298.728ms  298.688ms  300.252ms 
- 22   *  *  62.115.143.162  276.031ms 
- 23   62.115.136.107  276.765ms  272.177ms  269.688ms 
- 24   80.239.167.103  294.646ms  294.174ms  300.942ms 
- 25   62.115.132.207  281.190ms  293.516ms  281.290ms 
- 26   80.239.167.103  300.518ms  287.512ms  288.227ms 
- 27   50.87.253.53  275.492ms  261.027ms  275.856ms 
-
-SCANNING EXECUTED WITH Team MP
+Access to .IN WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the .IN registry database. The data in this record is provided by .IN Registry for informational purposes only ,and .IN does not guarantee its accuracy.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator or a Registrar, or NIXI except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. .IN reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
